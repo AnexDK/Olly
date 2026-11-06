@@ -1,0 +1,10 @@
+{
+  "name": "Olly – Find det billigere",
+  "short_name": "Olly",
+  "description": "Sammenlign priser og find gode tilbud.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#ffad24",
+  "icons": [{"src": "/olly-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
